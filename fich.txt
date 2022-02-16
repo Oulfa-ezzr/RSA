@@ -1,0 +1,4 @@
+Les trois chercheurs dont les noms ci haut baptisent la méthode de chiffrement en étudiant la
+théorie des nombres premiers découvrent accidentellement un algorithme très puissant de
+chiffrement qui se base sur un concept de clé publique de chiffrement sans pour autant que tout le
+monde puisse déchiffrer
